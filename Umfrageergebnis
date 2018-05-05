@@ -1,0 +1,9 @@
+<html>
+	<title> Umfrageergebnis </title>
+		<head>
+		</head>
+			<body>
+				<output id="output" for="vname">
+				</output>
+			</body>
+</html>
